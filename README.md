@@ -21,7 +21,7 @@ That's the whole policy. No pledge, no manifesto, no booby traps.
 #### From your own forked repo
 
 ```markdown
-[![YES: AI](https://raw.githubusercontent.com/GreenBean657/pro-ai-badge/master/badge.png?v=2)](https://github.com/GreenBean657/pro-ai-badge)
+[![YES: AI](https://raw.githubusercontent.com/GreenBean657/pro-ai-badge/master/badge.png)](https://github.com/GreenBean657/pro-ai-badge)
 ```
 
 #### GitHub hosted image (SVG)
